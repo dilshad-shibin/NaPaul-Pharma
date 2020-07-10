@@ -8615,7 +8615,7 @@ body:not(.device-touch) .button.button-full strong {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
     margin-bottom: 0;
-    color: #333
+    color: #fff
 }
 
 .fbox-content p {
@@ -8857,7 +8857,7 @@ body:not(.device-touch) .button.button-full strong {
 .fbox-content h3 span.subtitle {
     display: block;
     margin-top: 5px;
-    color: #444;
+    color: #ffffff;
     font-weight: 300;
     text-transform: none
 }
@@ -8889,7 +8889,8 @@ body:not(.device-touch) .button.button-full strong {
     margin-right: 0;
     padding: 0 2rem 2rem;
     border: 1px solid #e5e5e5;
-    border-radius: 5px
+    border-radius: 5px;
+    background: #1abc9c;
 }
 
 .fbox-bg.fbox-center .fbox-icon {
