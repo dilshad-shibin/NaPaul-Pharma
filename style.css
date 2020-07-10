@@ -8615,7 +8615,7 @@ body:not(.device-touch) .button.button-full strong {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
     margin-bottom: 0;
-    color: #fff
+    color: #000
 }
 
 .fbox-content p {
@@ -8857,7 +8857,7 @@ body:not(.device-touch) .button.button-full strong {
 .fbox-content h3 span.subtitle {
     display: block;
     margin-top: 5px;
-    color: #ffffff;
+    color: #333;
     font-weight: 300;
     text-transform: none
 }
